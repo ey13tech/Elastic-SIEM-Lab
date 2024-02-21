@@ -36,4 +36,4 @@ The goal of my project was to independently set up and configure a robust securi
 - Kali Linux to host the Elastic Agent and produce network activity.
 
 ## Steps
-
+In the process of creating a step-by-step guide, with further implementation of tools for optimization.
