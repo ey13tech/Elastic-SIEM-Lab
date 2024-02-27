@@ -38,6 +38,7 @@ The goal of my project was to independently set up and configure a robust securi
 ## Steps (This is an ARM based tutorial)
 
 1. Setup
+
    -UTM Hypervisor Installation
       - First and foremost we will need a hypervisor to download the elastic agent to.
       - We are using the UTM Hypervisor for ARM Architecture CPUs go to the link provided and select "Download" on the left hand side https://mac.getutm.app/. <img width="1512" alt="Screenshot 2024-02-26 at 5 12 28 PM" src="https://github.com/ey13tech/Elastic-SIEM-Lab/assets/117955695/defc37b0-c742-4bcf-a2d5-e1f40d7f5374">
