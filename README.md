@@ -48,5 +48,7 @@ The goal of my project was to independently set up and configure a robust securi
       - Once your ISO file is downloaded, double click it and it should extract a .utm virtual machine.
       - We are going to select "Create a New Virtual Machine" then select "Open" and select the .utm virtual machine.
       - This lab is not very intensive so you can keep the default Hardware settings.
+
+-ElasticAgent Setup
       - Now we are going to start downloading ElasticAgent to the linux host machine.
   -ElasticAgent 
