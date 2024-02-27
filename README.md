@@ -35,5 +35,17 @@ The goal of my project was to independently set up and configure a robust securi
 - UTM Hypervisor for ARM64 processors.
 - Kali Linux to host the Elastic Agent and produce network activity.
 
-## Steps
-In the process of creating a step-by-step guide, with further implementation of tools for optimization.
+## Steps (This is an ARM based tutorial)
+
+1. Setup
+   -UTM Hypervisor Installation
+      - First and foremost we will need a hypervisor to download the elastic agent to.
+      - We are using the UTM Hypervisor for ARM Architecture CPUs go to the link provided and select "Download" on the left hand side https://mac.getutm.app/. <img width="1512" alt="Screenshot 2024-02-26 at 5 12 28 PM" src="https://github.com/ey13tech/Elastic-SIEM-Lab/assets/117955695/defc37b0-c742-4bcf-a2d5-e1f40d7f5374">
+      - After it has finished downloading, open the file and run the installation agent and install the application
+      - Now we need a linux distro to use as our host for elastic agent.
+      - Open UTM and select Browse UTM Gallery and I selected Kali then select the "Download" button. If you would like to use your own ISO file, feel free to do so.
+      - Once your ISO file is downloaded, double click it and it should extract a .utm virtual machine.
+      - We are going to select "Create a New Virtual Machine" then select "Open" and select the .utm virtual machine.
+      - This lab is not very intensive so you can keep the default Hardware settings.
+      - Now we are going to start downloading ElasticAgent to the linux host machine.
+  -ElasticAgent 
