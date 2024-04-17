@@ -70,8 +70,6 @@ The goal of my project was to independently set up and configure a robust securi
        - Now we will select "Add the integration," then "Confirm incoming data." After doing so, it will send information to the host to confirm the reception of data.
          <img width="1512" alt="Screenshot 2024-02-27 at 8 48 28 AM" src="https://github.com/ey13tech/Elastic-SIEM-Lab/assets/117955695/8bad51fa-df2e-4346-b458-7d074a7f59e2">
        - Now we are ready to start analyzing data, creating data visualization, and creating alerts.
-
-
        
 
          
